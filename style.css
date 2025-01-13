@@ -1,0 +1,47 @@
+.container .card .theimage img {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.container {
+  max-width: 500px;
+  margin: 10px auto;
+}
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 7px 9px 25px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+h1 {
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+p {
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  max-width: 392px;
+  color: #394150;
+}
+h5 {
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  color: #394150;
+}
+h6 {
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+
+  color: #7c19ee;
+}
